@@ -3,6 +3,18 @@
     <channel>
         <title>Notchling</title>
         <item>
+            <title>0.3.0-beta.1</title>
+            <pubDate>Thu, 01 Oct 2026 21:01:39 +0000</pubDate>
+            <sparkle:version>84</sparkle:version>
+            <sparkle:shortVersionString>0.3.0-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Notchling 0.3.0 beta 1</p>
+<p>English and Italian: Notchling now follows your macOS language (per-app override in System Settings → General → Language &amp; Region). The Tray is called &quot;Tray&quot; everywhere.</p>
+<p>Inglese e italiano: Notchling ora segue la lingua di macOS (override per app in Impostazioni di Sistema → Generali → Lingua e zona). Il Tray si chiama &quot;Tray&quot; ovunque.</p>
+]]></description>
+            <enclosure url="https://github.com/matteovisca/Notchling-releases/releases/download/v0.3.0-beta.1/Notchling-0.3.0-beta.1.dmg" length="3501108" type="application/octet-stream" sparkle:edSignature="BgDdVoQmSBMwZJ8+A+rAnPJAim2qrfRIgEOVgGX7cyqW1NVjQtKxOAcFbjSpc4SAKDrSzhmogcy7Axk87jc3DA=="/>
+        </item>
+        <item>
             <title>0.2.0-beta.1</title>
             <pubDate>Thu, 01 Oct 2026 19:40:34 +0000</pubDate>
             <sparkle:version>69</sparkle:version>
