@@ -3,6 +3,18 @@
     <channel>
         <title>Notchling</title>
         <item>
+            <title>0.4.1-beta.1</title>
+            <pubDate>Fri, 02 Oct 2026 12:41:33 +0000</pubDate>
+            <sparkle:version>104</sparkle:version>
+            <sparkle:shortVersionString>0.4.1-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Notchling 0.4.1 beta 1</p>
+<p>Notchling now runs on macOS 15 Sequoia and later. On macOS 26 and later nothing changes.</p>
+<p>Notchling ora funziona da macOS 15 Sequoia in poi. Da macOS 26 in su non cambia nulla.</p>
+]]></description>
+            <enclosure url="https://github.com/matteovisca/Notchling-releases/releases/download/v0.4.1-beta.1/Notchling-0.4.1-beta.1.dmg" length="3609745" type="application/octet-stream" sparkle:edSignature="t+9EHDjOvm1sDNhbJsBjX5jb0kBzdJjU+ugy4Rj1RGwwpfUOpA2aNAe28W4XxP3HCqOmsxlTUODctsvcaUrQAA=="/>
+        </item>
+        <item>
             <title>0.4.0-beta.1</title>
             <pubDate>Fri, 02 Oct 2026 10:25:09 +0000</pubDate>
             <sparkle:version>100</sparkle:version>
