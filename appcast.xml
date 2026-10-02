@@ -3,6 +3,18 @@
     <channel>
         <title>Notchling</title>
         <item>
+            <title>0.5.0-beta.1</title>
+            <pubDate>Fri, 02 Oct 2026 14:59:13 +0000</pubDate>
+            <sparkle:version>128</sparkle:version>
+            <sparkle:shortVersionString>0.5.0-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Notchling 0.5.0 beta 1</p>
+<p>New: a mascot lives in the notch (Settings → Layout to enable it). Choose Pip, Glim or Byte; it wanders its own room, follows your clicks, rides the music track bar with headphones and has tamagotchi needs (food, mood, energy) with feed, play, pet and light actions. Pick the care level in Settings → Mascot. Fixed: clicks on empty areas of the open panel no longer close it.</p>
+<p>Novità: una mascotte vive nel notch (attivala da Impostazioni → Disposizione). Scegli Pip, Glim o Byte; gira nella sua stanza, segue i tuoi click, passeggia con le cuffie sulla barra della musica e ha bisogni da tamagotchi (fame, umore, energia) con le azioni mangia, gioca, coccole e luce. Scegli il livello di cura in Impostazioni → Mascotte. Corretto: i click nelle zone vuote del pannello aperto non lo chiudono più.</p>
+]]></description>
+            <enclosure url="https://github.com/matteovisca/Notchling-releases/releases/download/v0.5.0-beta.1/Notchling-0.5.0-beta.1.dmg" length="3991453" type="application/octet-stream" sparkle:edSignature="/J/05+Uo/ykVt7y0owfVYBqShIivUEueVqSVeKCfJt2Q4Cf0KY9x3LjCde17UqASnYpklKQAd2EpniOnR1MCCw=="/>
+        </item>
+        <item>
             <title>0.4.1-beta.1</title>
             <pubDate>Fri, 02 Oct 2026 12:41:33 +0000</pubDate>
             <sparkle:version>104</sparkle:version>
