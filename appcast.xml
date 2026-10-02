@@ -3,6 +3,18 @@
     <channel>
         <title>Notchling</title>
         <item>
+            <title>0.4.0-beta.1</title>
+            <pubDate>Fri, 02 Oct 2026 10:25:09 +0000</pubDate>
+            <sparkle:version>100</sparkle:version>
+            <sparkle:shortVersionString>0.4.0-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Notchling 0.4.0 beta 1</p>
+<p>New: the panel now flows out of the notch with rounded shoulders and is wider. Settings → General: open the panel on hover, choose what happens with fullscreen apps, fine-tune the notch size, reset all settings. The Mirror starts off and turns on with a click; on external displays a green LED shows when the camera is on. Release notes link in About.</p>
+<p>Novità: il pannello esce dal notch con i bordi raccordati ed è più largo. Impostazioni → Generali: apertura al passaggio del mouse, comportamento con le app a schermo intero, regolazione fine del notch, ripristino delle impostazioni. Lo Specchio parte spento e si accende con un clic; sui monitor esterni un LED verde indica la fotocamera accesa. Link alle note di rilascio in Info.</p>
+]]></description>
+            <enclosure url="https://github.com/matteovisca/Notchling-releases/releases/download/v0.4.0-beta.1/Notchling-0.4.0-beta.1.dmg" length="3601033" type="application/octet-stream" sparkle:edSignature="F0T6yUvoKkxOIwnm6sbYkWz4JPHR/DgmfTHrdik6DPAub1F2YjJZtuDLQA0oOFQv9HX6Ud5msVEC1yWIFPdHBQ=="/>
+        </item>
+        <item>
             <title>0.3.0-beta.1</title>
             <pubDate>Thu, 01 Oct 2026 21:01:39 +0000</pubDate>
             <sparkle:version>84</sparkle:version>
